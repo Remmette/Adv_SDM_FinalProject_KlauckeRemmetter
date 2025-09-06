@@ -1,0 +1,129 @@
+                          species      RMSE       MAE       Pearson       AUC
+1        klaucke_species1_krandom 0.3865339 0.3352892  0.3356459546 0.7865516
+2          klaucke_species1_block 0.3874379 0.3423040  0.3482020173 0.7226009
+3            klaucke_species1_scv 0.3737160 0.3366554  0.1921641222 0.6773834
+4            klaucke_species1_ecv 0.3753750 0.3419372  0.1375971347 0.6547629
+5    klaucke_species1_latitudinal 0.3984795 0.3463715  0.2094330439 0.7067507
+6        klaucke_species2_krandom 0.4541725 0.4352930  0.2717937087 0.6909492
+7          klaucke_species2_block 0.4566864 0.4345123  0.3121340575 0.7132703
+8            klaucke_species2_scv 0.4705918 0.4580403  0.0385915614 0.6119877
+9            klaucke_species2_ecv 0.4535977 0.4376999  0.0608782625 0.6221990
+10   klaucke_species2_latitudinal 0.4648437 0.4506005  0.2299843774 0.6573110
+11       klaucke_species3_krandom 0.4923217 0.4840550  0.0416665535 0.6041914
+12         klaucke_species3_block 0.4897078 0.4828868  0.1012271844 0.6347992
+13           klaucke_species3_scv 0.4964276 0.4884833 -0.0787883049 0.6375621
+14           klaucke_species3_ecv 0.4847604 0.4756203 -0.0091135039 0.6203608
+15   klaucke_species3_latitudinal 0.5047671 0.4998654 -0.1463841069 0.6490806
+16       klaucke_species4_krandom 0.4864815 0.4809205  0.1091348182 0.6023655
+17         klaucke_species4_block 0.4889548 0.4829904  0.0813779005 0.6177501
+18           klaucke_species4_scv 0.4970494 0.4896468  0.0607759856 0.6092917
+19           klaucke_species4_ecv 0.4906797 0.4845269 -0.0318081114 0.5695356
+20   klaucke_species4_latitudinal 0.4986208 0.4906428  0.0841959549 0.6398467
+21       klaucke_species5_krandom 0.4590472 0.4421200  0.1911116110 0.6426162
+22         klaucke_species5_block 0.4565819 0.4389291  0.2408657100 0.6620542
+23           klaucke_species5_scv 0.4709380 0.4590913  0.1219855545 0.6215276
+24           klaucke_species5_ecv 0.4525733 0.4377625  0.0762276460 0.6299269
+25   klaucke_species5_latitudinal 0.4830805 0.4695784  0.0854470102 0.6607568
+26     remmetter_species1_krandom 0.4563811 0.4390640  0.4983661420 0.7897180
+27       remmetter_species1_block 0.4649195 0.4479090  0.4512552468 0.7657931
+28         remmetter_species1_scv 0.4804048 0.4627215  0.3641506415 0.7424289
+29         remmetter_species1_ecv 0.4290621 0.4162253  0.0533574093 0.6103620
+30 remmetter_species1_latitudinal 0.4758736 0.4605291  0.4463639231 0.7971897
+31     remmetter_species2_krandom 0.4583197 0.4385524  0.3984820284 0.7149593
+32       remmetter_species2_block 0.4549510 0.4362286  0.4094881094 0.7218604
+33         remmetter_species2_scv 0.4685689 0.4561853  0.1245005099 0.5954460
+34         remmetter_species2_ecv 0.4649151 0.4409561 -0.0039459035 0.5740881
+35 remmetter_species2_latitudinal 0.4639505 0.4486385  0.2457476835 0.6121327
+36     remmetter_species3_krandom 0.3756682 0.2829852  0.7211703375 0.8790455
+37       remmetter_species3_block 0.3738869 0.2821213  0.7424475859 0.8517561
+38         remmetter_species3_scv 0.3714464 0.2799193  0.6896020618 0.8852288
+39         remmetter_species3_ecv 0.2029753 0.2028418  0.0233645653 0.5802469
+40 remmetter_species3_latitudinal 0.3299064 0.2508352  0.7299942578 0.8437495
+41     remmetter_species4_krandom 0.4610031 0.4373771  0.1996355191 0.6523164
+42       remmetter_species4_block 0.4645678 0.4407180  0.1784700698 0.6464423
+43         remmetter_species4_scv 0.4595988 0.4290525  0.2010533166 0.6645105
+44         remmetter_species4_ecv 0.4341834 0.4227214 -0.0825780068 0.6152229
+45 remmetter_species4_latitudinal 0.4626729 0.4348841  0.1351604425 0.6683137
+46     remmetter_species5_krandom 0.4934731 0.4899619  0.1073760205 0.5634308
+47       remmetter_species5_block 0.4938878 0.4901624  0.1046673233 0.5526284
+48         remmetter_species5_scv 0.4863944 0.4811725  0.0523607468 0.5583117
+49         remmetter_species5_ecv 0.4786763 0.4736543  0.0274815664 0.5545253
+50 remmetter_species5_latitudinal 0.4917509 0.4862369  0.0875443824 0.5507647
+51     schneider_species1_krandom 0.3068232 0.2132862  0.8216950544 0.9637598
+52       schneider_species1_block 0.3019891 0.2095106  0.7672250619 0.9514434
+53         schneider_species1_scv 0.2278458 0.1829102  0.3819300632 0.7706686
+54         schneider_species1_ecv 0.2410125 0.2110657  0.1207586658 0.5875194
+55 schneider_species1_latitudinal 0.2725897 0.1925405  0.5736792900 0.8844006
+56     schneider_species2_krandom 0.4846745 0.4811847  0.7697052671 0.9166667
+57       schneider_species2_block 0.4900320 0.4859092  0.3345269857 0.8611111
+58         schneider_species2_scv 0.4745765 0.4717215  0.6109581215 1.0000000
+59         schneider_species2_ecv 0.4658476 0.4632632  0.5390778606 0.7666667
+60 schneider_species2_latitudinal 0.4837847 0.4823284  0.6211135645 0.8750000
+61     schneider_species3_krandom 0.2871264 0.1897357  0.7254004440 0.9726852
+62       schneider_species3_block 0.2781832 0.1879296  0.7374369804 0.9296965
+63         schneider_species3_scv 0.2279535 0.1857148  0.5432889254 0.8053030
+64         schneider_species3_ecv 0.1901818 0.1788442  0.2919671140 0.7556818
+65 schneider_species3_latitudinal 0.2811738 0.1891252  0.7390762694 0.9339422
+66     schneider_species4_krandom 0.4774221 0.4628132  0.8908190367 0.9910304
+67       schneider_species4_block 0.4772867 0.4629650  0.8955246958 0.9913717
+68         schneider_species4_scv 0.4684910 0.4485403  0.8537862610 0.9700989
+69         schneider_species4_ecv 0.4604494 0.4325894  0.0047500297 0.7856472
+70 schneider_species4_latitudinal 0.4705734 0.4454797  0.8652807223 0.9705012
+71     schneider_species5_krandom 0.3178308 0.2524709  0.1733933801 0.8029393
+72       schneider_species5_block 0.3168995 0.2546866  0.1543890627 0.7715778
+73         schneider_species5_scv 0.3134766 0.2614275  0.1559149561 0.7921245
+74         schneider_species5_ecv 0.3028374 0.2868348 -0.0005304901 0.5418619
+75 schneider_species5_latitudinal 0.3227792 0.2601272  0.1705924665 0.7936964
+
+Ranking
+  cv_method       n percentage
+  <chr>       <int>      <dbl>
+1 block           4       26.7
+2 krandom         5       33.3
+3 latitudinal     4       26.7
+4 scv             2       13.3
+
+Average Bias
+  cv_method   mean_bias sd_bias
+  <chr>           <dbl>   <dbl>
+1 block         -0.0780  0.0972
+2 ecv           -0.206   0.0966
+3 krandom       -0.0661  0.115 
+4 latitudinal   -0.0881  0.116 
+5 scv           -0.108   0.137 
+
+Ranking Correlations
+  cv_method   mean_bias sd_bias
+  <chr>           <dbl>   <dbl>
+1 block         -0.0780  0.0972
+2 ecv           -0.206   0.0966
+3 krandom       -0.0661  0.115 
+4 latitudinal   -0.0881  0.116 
+5 scv           -0.108   0.137 
+
+Summary Stats
+  cv_method   n_species mean_bias  rmse correlation
+  <chr>           <int>     <dbl> <dbl>       <dbl>
+1 krandom            15   -0.0661 0.129       0.62 
+2 block              15   -0.078  0.122       0.677
+3 latitudinal        15   -0.0881 0.142       0.49 
+4 scv                15   -0.108  0.171       0.34 
+5 ecv                15   -0.206  0.226       0.324
+
+Bias Characteristica
+  cv_method   cor_prev cor_moran cor_frag
+  <chr>          <dbl>     <dbl>    <dbl>
+1 block          0.448     0.356  0.0335 
+2 ecv            0.248    -0.354 -0.0557 
+3 krandom        0.408     0.333 -0.00688
+4 latitudinal    0.348     0.174 -0.00884
+5 scv            0.497    -0.176  0.0195 
+
+Raw Characteristica
+  cv_method   cor_prev cor_moran cor_frag
+  <chr>          <dbl>     <dbl>    <dbl>
+1 block          0.514     0.650    0.216
+2 ecv            0.621     0.219    0.256
+3 krandom        0.487     0.612    0.167
+4 latitudinal    0.498     0.551    0.187
+5 scv            0.665     0.196    0.202
